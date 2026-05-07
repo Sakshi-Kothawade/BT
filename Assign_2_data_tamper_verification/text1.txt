@@ -1,0 +1,4 @@
+Transaction ID: TXN001
+Alice sends 10 coins to Bobby
+Date: 2026-02-24
+Purpose: Payment for services

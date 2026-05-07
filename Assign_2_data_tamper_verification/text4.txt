@@ -1,0 +1,4 @@
+Transaction ID: TXN004
+Dave sends 7 coins to Eve
+Date: 2026-02-24
+Purpose: Product purchase

@@ -1,0 +1,4 @@
+Transaction ID: TXN002
+Bob sends 5 coins to Charlie
+Date: 2026-02-24
+Purpose: Loan repayment
